@@ -1,0 +1,30 @@
+> Welcome, Player2, You have joined room ROOM:5458B826:33A094A7, waiting for more players...
+
+> Welcome to Tuenti's simplified 8-Deck blackjack!, welcome all players: 
+> ["Player0","Player1","Player2","Player3","Player4","Player5","Player6"]
+> In order to pass this challenge, you have to buy the code from the dealer, in order to do so, you need 600 coins.
+> Everyone starts with 200 coins, and you'll know how many cards they get from the dealer, but that's it, you won't know how much they bet, their cards and whether they win or lose...
+> The game will continue until all the cards have been used and while at least 3 of the original players remain, you cannot join an ongoing game
+> As this game is simplified, you only have 3 amounts you can bet: 2, 6, 10 and you can only ask the dealer for a card (hit) or stand
+> There are no side rules, the blackjack is paid at 150% and the dealer will hit on a soft 17
+> When you can buy the code, it will be automatically bought and displayed to you as another message, so be ready
+> The server lets you think for 5s each move, so be fast!
+> The dealer takes .05s to gather and deliver the bets at the end of each hand
+> The notifications messages start with >, the important messages start with ## and the options available start with +
+> The cards are represented as chars, with A,J,Q,K (to make things easier, 10 is represented as 0)
+> Good luck!
+> It's now turn 1, there are still 416 cards on the deck
+
+## TURN 1
+## CARDS LEFT 416
+## COINS 200
+> Choose your bet
+
+> Options available:
+## OPTIONS START
++bet2
++bet6
++bet10
+## OPTIONS END
+## CHOOSE
+

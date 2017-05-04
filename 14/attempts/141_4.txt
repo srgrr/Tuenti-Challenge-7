@@ -1,0 +1,2526 @@
+> Welcome, Player4, You have joined room ROOM:5458B826:33A094A7, waiting for more players...
+
+> Welcome to Tuenti's simplified 8-Deck blackjack!, welcome all players: 
+> ["Player0","Player1","Player2","Player3","Player4","Player5","Player6"]
+> In order to pass this challenge, you have to buy the code from the dealer, in order to do so, you need 600 coins.
+> Everyone starts with 200 coins, and you'll know how many cards they get from the dealer, but that's it, you won't know how much they bet, their cards and whether they win or lose...
+> The game will continue until all the cards have been used and while at least 3 of the original players remain, you cannot join an ongoing game
+> As this game is simplified, you only have 3 amounts you can bet: 2, 6, 10 and you can only ask the dealer for a card (hit) or stand
+> There are no side rules, the blackjack is paid at 150% and the dealer will hit on a soft 17
+> When you can buy the code, it will be automatically bought and displayed to you as another message, so be ready
+> The server lets you think for 5s each move, so be fast!
+> The dealer takes .05s to gather and deliver the bets at the end of each hand
+> The notifications messages start with >, the important messages start with ## and the options available start with +
+> The cards are represented as chars, with A,J,Q,K (to make things easier, 10 is represented as 0)
+> Good luck!
+> It's now turn 1, there are still 416 cards on the deck
+
+## TURN 1
+## CARDS LEFT 416
+## COINS 200
+> Choose your bet
+
+> Options available:
+## OPTIONS START
++bet2
++bet6
++bet10
+## OPTIONS END
+## CHOOSE
+
+[YOU GET]
+> Sadly, Player0 has left
+[YOU GET]
+
+> Sadly, Player1 has left
+> Sadly, Player2 has left
+> Sadly, Player3 has left
+> You have bet 10, you have 190 coins left
+## BET 10
+## COINS LEFT 190
+> Player4 gets 2 cards (??) from the dealer
+> Player5 gets 2 cards (??) from the dealer
+> Player6 gets 2 cards (??) from the dealer
+> Dealer gets 2 cards (?4)
+## DEALER CARDS ?4
+> You get JK from the dealer with values [20]
+## CURRENT CARDS JK
+## CURRENT VALUES [20]
+> Play time, there are still 408 cards left on the deck
+## CARDS LEFT 408
+## PLAY
+> Choose your action
+## ACTION
+> Options available:
+## OPTIONS START
++hit
++stand
+## OPTIONS END
+## CHOOSE
+
+> Player4 actions ended
+
+
+> Player5 actions ended
+
+> Player6 actions ended
+
+> Dealer must hit
+> Dealer gets 1 card (4)
+## DEALER CARDS 4Q4
+## DEALER VALUES [18]
+> Dealer must stay
+## DEALER CARDS 4Q4
+## DEALER VALUES [18]
+## RESULT TURN 1: WIN: YOU HAVE 210 COINS
+> It's now turn 2, there are still 407 cards on the deck
+## TURN 2
+## CARDS LEFT 407
+## COINS 210
+> Choose your bet
+> Options available:
+## OPTIONS START
++bet2
++bet6
++bet10
+## OPTIONS END
+## CHOOSE
+
+[YOU GET]
+> You have bet 10, you have 200 coins left
+[YOU GET]
+
+## BET 10
+## COINS LEFT 200
+> Player4 gets 2 cards (??) from the dealer
+> Player5 gets 2 cards (??) from the dealer
+> Player6 gets 2 cards (??) from the dealer
+> Dealer gets 2 cards (?3)
+## DEALER CARDS ?3
+> You get 3A from the dealer with values [4,14]
+## CURRENT CARDS 3A
+## CURRENT VALUES [4,14]
+> Play time, there are still 399 cards left on the deck
+## CARDS LEFT 399
+## PLAY
+> Choose your action
+## ACTION
+> Options available:
+## OPTIONS START
++hit
++stand
+## OPTIONS END
+## CHOOSE
+
+> Player4 actions ended
+
+
+> Player5 actions ended
+
+> Player6 actions ended
+
+> Dealer must hit
+> Dealer gets 1 card (7)
+## DEALER CARDS 703
+## DEALER VALUES [20]
+> Dealer must stay
+## DEALER CARDS 703
+## DEALER VALUES [20]
+## RESULT TURN 2: LOSE: YOU HAVE 200 COINS
+> It's now turn 3, there are still 398 cards on the deck
+## TURN 3
+## CARDS LEFT 398
+## COINS 200
+> Choose your bet
+> Options available:
+## OPTIONS START
++bet2
++bet6
++bet10
+## OPTIONS END
+## CHOOSE
+
+[YOU GET]
+> You have bet 10, you have 190 coins left
+[YOU GET]
+
+## BET 10
+## COINS LEFT 190
+> Player4 gets 2 cards (??) from the dealer
+> Player5 gets 2 cards (??) from the dealer
+> Player6 gets 2 cards (??) from the dealer
+> Dealer gets 2 cards (?9)
+## DEALER CARDS ?9
+> You get 5Q from the dealer with values [15]
+## CURRENT CARDS 5Q
+## CURRENT VALUES [15]
+> Play time, there are still 390 cards left on the deck
+## CARDS LEFT 390
+## PLAY
+> Choose your action
+## ACTION
+> Options available:
+## OPTIONS START
++hit
++stand
+## OPTIONS END
+## CHOOSE
+
+> Player4 actions ended
+
+
+> Player5 actions ended
+
+> Player6 actions ended
+
+> Dealer must hit
+> Dealer gets 1 card (Q)
+## DEALER CARDS Q49
+## DEALER VALUES [23]
+> Dealer must stay
+## DEALER CARDS Q49
+## DEALER VALUES [23]
+## RESULT TURN 3: WIN: YOU HAVE 210 COINS
+> It's now turn 4, there are still 389 cards on the deck
+## TURN 4
+## CARDS LEFT 389
+## COINS 210
+> Choose your bet
+> Options available:
+## OPTIONS START
++bet2
++bet6
++bet10
+## OPTIONS END
+## CHOOSE
+
+[YOU GET]
+> You have bet 10, you have 200 coins left
+[YOU GET]
+
+## BET 10
+## COINS LEFT 200
+> Player4 gets 2 cards (??) from the dealer
+> Player5 gets 2 cards (??) from the dealer
+> Player6 gets 2 cards (??) from the dealer
+> Dealer gets 2 cards (?2)
+## DEALER CARDS ?2
+> You get J8 from the dealer with values [18]
+## CURRENT CARDS J8
+## CURRENT VALUES [18]
+> Play time, there are still 381 cards left on the deck
+## CARDS LEFT 381
+## PLAY
+> Choose your action
+## ACTION
+> Options available:
+## OPTIONS START
++hit
++stand
+## OPTIONS END
+## CHOOSE
+
+> Player4 actions ended
+
+
+> Player5 actions ended
+
+> Player6 actions ended
+
+> Dealer must hit
+> Dealer gets 1 card (5)
+## DEALER CARDS 572
+## DEALER VALUES [14]
+> Dealer must hit
+> Dealer gets 1 card (6)
+## DEALER CARDS 6572
+## DEALER VALUES [20]
+> Dealer must stay
+## DEALER CARDS 6572
+## DEALER VALUES [20]
+## RESULT TURN 4: LOSE: YOU HAVE 200 COINS
+> It's now turn 5, there are still 379 cards on the deck
+## TURN 5
+## CARDS LEFT 379
+## COINS 200
+> Choose your bet
+> Options available:
+## OPTIONS START
++bet2
++bet6
++bet10
+## OPTIONS END
+## CHOOSE
+
+[YOU GET]
+> You have bet 10, you have 190 coins left
+[YOU GET]
+
+## BET 10
+## COINS LEFT 190
+> Player4 gets 2 cards (??) from the dealer
+> Player5 gets 2 cards (??) from the dealer
+> Player6 gets 2 cards (??) from the dealer
+> Dealer gets 2 cards (?7)
+## DEALER CARDS ?7
+> You get 50 from the dealer with values [15]
+## CURRENT CARDS 50
+## CURRENT VALUES [15]
+> Play time, there are still 371 cards left on the deck
+## CARDS LEFT 371
+## PLAY
+> Choose your action
+## ACTION
+> Options available:
+## OPTIONS START
++hit
++stand
+## OPTIONS END
+## CHOOSE
+
+> Player4 actions ended
+
+
+> Player5 actions ended
+
+> Player6 actions ended
+
+> Dealer must stay
+## DEALER CARDS A7
+## DEALER VALUES [8,18]
+## RESULT TURN 5: LOSE: YOU HAVE 190 COINS
+> It's now turn 6, there are still 371 cards on the deck
+## TURN 6
+## CARDS LEFT 371
+## COINS 190
+> Choose your bet
+> Options available:
+## OPTIONS START
++bet2
++bet6
++bet10
+## OPTIONS END
+## CHOOSE
+
+[YOU GET]
+> You have bet 10, you have 180 coins left
+[YOU GET]
+
+## BET 10
+## COINS LEFT 180
+> Player4 gets 2 cards (??) from the dealer
+> Player5 gets 2 cards (??) from the dealer
+> Player6 gets 2 cards (??) from the dealer
+> Dealer gets 2 cards (?6)
+## DEALER CARDS ?6
+> You get 29 from the dealer with values [11]
+## CURRENT CARDS 29
+## CURRENT VALUES [11]
+> Play time, there are still 363 cards left on the deck
+## CARDS LEFT 363
+## PLAY
+> Choose your action
+## ACTION
+> Options available:
+## OPTIONS START
++hit
++stand
+## OPTIONS END
+## CHOOSE
+
+> Player4 actions ended
+
+
+> Player5 actions ended
+
+> Player6 actions ended
+
+> Dealer must hit
+> Dealer gets 1 card (J)
+## DEALER CARDS JK6
+## DEALER VALUES [26]
+> Dealer must stay
+## DEALER CARDS JK6
+## DEALER VALUES [26]
+## RESULT TURN 6: WIN: YOU HAVE 200 COINS
+> It's now turn 7, there are still 362 cards on the deck
+## TURN 7
+## CARDS LEFT 362
+## COINS 200
+> Choose your bet
+> Options available:
+## OPTIONS START
++bet2
++bet6
++bet10
+## OPTIONS END
+## CHOOSE
+
+[YOU GET]
+> You have bet 10, you have 190 coins left
+[YOU GET]
+
+## BET 10
+## COINS LEFT 190
+> Player4 gets 2 cards (??) from the dealer
+> Player5 gets 2 cards (??) from the dealer
+> Player6 gets 2 cards (??) from the dealer
+> Dealer gets 2 cards (?4)
+## DEALER CARDS ?4
+> You get 05 from the dealer with values [15]
+## CURRENT CARDS 05
+## CURRENT VALUES [15]
+> Play time, there are still 354 cards left on the deck
+## CARDS LEFT 354
+## PLAY
+> Choose your action
+## ACTION
+> Options available:
+## OPTIONS START
++hit
++stand
+## OPTIONS END
+## CHOOSE
+
+> Player4 actions ended
+
+
+> Player5 actions ended
+
+> Player6 actions ended
+
+> Dealer must hit
+> Dealer gets 1 card (3)
+## DEALER CARDS 3A4
+## DEALER VALUES [8,18]
+> Dealer must stay
+## DEALER CARDS 3A4
+## DEALER VALUES [8,18]
+## RESULT TURN 7: LOSE: YOU HAVE 190 COINS
+> It's now turn 8, there are still 353 cards on the deck
+## TURN 8
+## CARDS LEFT 353
+## COINS 190
+> Choose your bet
+> Options available:
+## OPTIONS START
++bet2
++bet6
++bet10
+## OPTIONS END
+## CHOOSE
+
+[YOU GET]
+> You have bet 10, you have 180 coins left
+[YOU GET]
+
+## BET 10
+## COINS LEFT 180
+> Player4 gets 2 cards (??) from the dealer
+> Player5 gets 2 cards (??) from the dealer
+> Player6 gets 2 cards (??) from the dealer
+> Dealer gets 2 cards (?7)
+## DEALER CARDS ?7
+> You get 7K from the dealer with values [17]
+## CURRENT CARDS 7K
+## CURRENT VALUES [17]
+> Play time, there are still 345 cards left on the deck
+## CARDS LEFT 345
+## PLAY
+> Choose your action
+## ACTION
+> Options available:
+## OPTIONS START
++hit
++stand
+## OPTIONS END
+## CHOOSE
+
+> Player4 actions ended
+
+
+> Player5 actions ended
+
+> Player6 actions ended
+
+> Dealer must stay
+## DEALER CARDS Q7
+## DEALER VALUES [17]
+## RESULT TURN 8: TIE: YOU HAVE 190 COINS
+> It's now turn 9, there are still 345 cards on the deck
+## TURN 9
+## CARDS LEFT 345
+## COINS 190
+> Choose your bet
+> Options available:
+## OPTIONS START
++bet2
++bet6
++bet10
+## OPTIONS END
+## CHOOSE
+
+[YOU GET]
+> You have bet 10, you have 180 coins left
+[YOU GET]
+
+## BET 10
+## COINS LEFT 180
+> Player4 gets 2 cards (??) from the dealer
+> Player5 gets 2 cards (??) from the dealer
+> Player6 gets 2 cards (??) from the dealer
+> Dealer gets 2 cards (?4)
+## DEALER CARDS ?4
+> You get J5 from the dealer with values [15]
+## CURRENT CARDS J5
+## CURRENT VALUES [15]
+> Play time, there are still 337 cards left on the deck
+## CARDS LEFT 337
+## PLAY
+> Choose your action
+## ACTION
+> Options available:
+## OPTIONS START
++hit
++stand
+## OPTIONS END
+## CHOOSE
+
+> Player4 actions ended
+
+
+> Player5 actions ended
+
+> Player6 actions ended
+
+> Dealer must hit
+> Dealer gets 1 card (8)
+## DEALER CARDS 8Q4
+## DEALER VALUES [22]
+> Dealer must stay
+## DEALER CARDS 8Q4
+## DEALER VALUES [22]
+## RESULT TURN 9: WIN: YOU HAVE 200 COINS
+> It's now turn 10, there are still 336 cards on the deck
+## TURN 10
+## CARDS LEFT 336
+## COINS 200
+> Choose your bet
+> Options available:
+## OPTIONS START
++bet2
++bet6
++bet10
+## OPTIONS END
+## CHOOSE
+
+[YOU GET]
+> You have bet 10, you have 190 coins left
+[YOU GET]
+
+## BET 10
+## COINS LEFT 190
+> Player4 gets 2 cards (??) from the dealer
+> Player5 gets 2 cards (??) from the dealer
+> Player6 gets 2 cards (??) from the dealer
+> Dealer gets 2 cards (?7)
+## DEALER CARDS ?7
+> You get 8J from the dealer with values [18]
+## CURRENT CARDS 8J
+## CURRENT VALUES [18]
+> Play time, there are still 328 cards left on the deck
+## CARDS LEFT 328
+## PLAY
+> Choose your action
+## ACTION
+> Options available:
+## OPTIONS START
++hit
++stand
+## OPTIONS END
+## CHOOSE
+
+> Player4 actions ended
+
+
+> Player5 actions ended
+
+> Player6 actions ended
+
+> Dealer must hit
+> Dealer gets 1 card (6)
+## DEALER CARDS 657
+## DEALER VALUES [18]
+> Dealer must stay
+## DEALER CARDS 657
+## DEALER VALUES [18]
+## RESULT TURN 10: TIE: YOU HAVE 200 COINS
+> It's now turn 11, there are still 327 cards on the deck
+## TURN 11
+## CARDS LEFT 327
+## COINS 200
+> Choose your bet
+> Options available:
+## OPTIONS START
++bet2
++bet6
++bet10
+## OPTIONS END
+## CHOOSE
+
+[YOU GET]
+> You have bet 10, you have 190 coins left
+[YOU GET]
+
+## BET 10
+## COINS LEFT 190
+> Player4 gets 2 cards (??) from the dealer
+> Player5 gets 2 cards (??) from the dealer
+> Player6 gets 2 cards (??) from the dealer
+> Dealer gets 2 cards (?7)
+## DEALER CARDS ?7
+> You get 50 from the dealer with values [15]
+## CURRENT CARDS 50
+## CURRENT VALUES [15]
+> Play time, there are still 319 cards left on the deck
+## CARDS LEFT 319
+## PLAY
+> Choose your action
+## ACTION
+> Options available:
+## OPTIONS START
++hit
++stand
+## OPTIONS END
+## CHOOSE
+
+> Player4 actions ended
+
+
+> Player5 actions ended
+
+> Player6 actions ended
+
+> Dealer must stay
+## DEALER CARDS A7
+## DEALER VALUES [8,18]
+## RESULT TURN 11: LOSE: YOU HAVE 190 COINS
+> It's now turn 12, there are still 319 cards on the deck
+## TURN 12
+## CARDS LEFT 319
+## COINS 190
+> Choose your bet
+> Options available:
+## OPTIONS START
++bet2
++bet6
++bet10
+## OPTIONS END
+## CHOOSE
+
+[YOU GET]
+> You have bet 10, you have 180 coins left
+[YOU GET]
+
+## BET 10
+## COINS LEFT 180
+> Player4 gets 2 cards (??) from the dealer
+> Player5 gets 2 cards (??) from the dealer
+> Player6 gets 2 cards (??) from the dealer
+> Dealer gets 2 cards (?6)
+## DEALER CARDS ?6
+> You get 29 from the dealer with values [11]
+## CURRENT CARDS 29
+## CURRENT VALUES [11]
+> Play time, there are still 311 cards left on the deck
+## CARDS LEFT 311
+## PLAY
+> Choose your action
+## ACTION
+> Options available:
+## OPTIONS START
++hit
++stand
+## OPTIONS END
+## CHOOSE
+
+> Player4 actions ended
+
+
+> Player5 actions ended
+
+> Player6 actions ended
+
+> Dealer must hit
+> Dealer gets 1 card (J)
+## DEALER CARDS JK6
+## DEALER VALUES [26]
+> Dealer must stay
+## DEALER CARDS JK6
+## DEALER VALUES [26]
+## RESULT TURN 12: WIN: YOU HAVE 200 COINS
+> It's now turn 13, there are still 310 cards on the deck
+## TURN 13
+## CARDS LEFT 310
+## COINS 200
+> Choose your bet
+> Options available:
+## OPTIONS START
++bet2
++bet6
++bet10
+## OPTIONS END
+## CHOOSE
+
+[YOU GET]
+> You have bet 10, you have 190 coins left
+[YOU GET]
+
+## BET 10
+## COINS LEFT 190
+> Player4 gets 2 cards (??) from the dealer
+> Player5 gets 2 cards (??) from the dealer
+> Player6 gets 2 cards (??) from the dealer
+> Dealer gets 2 cards (?4)
+## DEALER CARDS ?4
+> You get 05 from the dealer with values [15]
+## CURRENT CARDS 05
+## CURRENT VALUES [15]
+> Play time, there are still 302 cards left on the deck
+## CARDS LEFT 302
+## PLAY
+> Choose your action
+## ACTION
+> Options available:
+## OPTIONS START
++hit
++stand
+## OPTIONS END
+## CHOOSE
+
+> Player4 actions ended
+
+
+> Player5 actions ended
+
+> Player6 actions ended
+
+> Dealer must hit
+> Dealer gets 1 card (3)
+## DEALER CARDS 3A4
+## DEALER VALUES [8,18]
+> Dealer must stay
+## DEALER CARDS 3A4
+## DEALER VALUES [8,18]
+## RESULT TURN 13: LOSE: YOU HAVE 190 COINS
+> It's now turn 14, there are still 301 cards on the deck
+## TURN 14
+## CARDS LEFT 301
+## COINS 190
+> Choose your bet
+> Options available:
+## OPTIONS START
++bet2
++bet6
++bet10
+## OPTIONS END
+## CHOOSE
+
+[YOU GET]
+> You have bet 10, you have 180 coins left
+[YOU GET]
+
+## BET 10
+## COINS LEFT 180
+> Player4 gets 2 cards (??) from the dealer
+> Player5 gets 2 cards (??) from the dealer
+> Player6 gets 2 cards (??) from the dealer
+> Dealer gets 2 cards (?7)
+## DEALER CARDS ?7
+> You get 7K from the dealer with values [17]
+## CURRENT CARDS 7K
+## CURRENT VALUES [17]
+> Play time, there are still 293 cards left on the deck
+## CARDS LEFT 293
+## PLAY
+> Choose your action
+## ACTION
+> Options available:
+## OPTIONS START
++hit
++stand
+## OPTIONS END
+## CHOOSE
+
+> Player4 actions ended
+
+
+> Player5 actions ended
+
+> Player6 actions ended
+
+> Dealer must stay
+## DEALER CARDS Q7
+## DEALER VALUES [17]
+## RESULT TURN 14: TIE: YOU HAVE 190 COINS
+> It's now turn 15, there are still 293 cards on the deck
+## TURN 15
+## CARDS LEFT 293
+## COINS 190
+> Choose your bet
+> Options available:
+## OPTIONS START
++bet2
++bet6
++bet10
+## OPTIONS END
+## CHOOSE
+
+[YOU GET]
+> You have bet 10, you have 180 coins left
+[YOU GET]
+
+## BET 10
+## COINS LEFT 180
+> Player4 gets 2 cards (??) from the dealer
+> Player5 gets 2 cards (??) from the dealer
+> Player6 gets 2 cards (??) from the dealer
+> Dealer gets 2 cards (?4)
+## DEALER CARDS ?4
+> You get J5 from the dealer with values [15]
+## CURRENT CARDS J5
+## CURRENT VALUES [15]
+> Play time, there are still 285 cards left on the deck
+## CARDS LEFT 285
+## PLAY
+> Choose your action
+## ACTION
+> Options available:
+## OPTIONS START
++hit
++stand
+## OPTIONS END
+## CHOOSE
+
+> Player4 actions ended
+
+
+> Player5 actions ended
+
+> Player6 actions ended
+
+> Dealer must hit
+> Dealer gets 1 card (8)
+## DEALER CARDS 8Q4
+## DEALER VALUES [22]
+> Dealer must stay
+## DEALER CARDS 8Q4
+## DEALER VALUES [22]
+## RESULT TURN 15: WIN: YOU HAVE 200 COINS
+> It's now turn 16, there are still 284 cards on the deck
+## TURN 16
+## CARDS LEFT 284
+## COINS 200
+> Choose your bet
+> Options available:
+## OPTIONS START
++bet2
++bet6
++bet10
+## OPTIONS END
+## CHOOSE
+
+[YOU GET]
+> You have bet 10, you have 190 coins left
+[YOU GET]
+
+## BET 10
+## COINS LEFT 190
+> Player4 gets 2 cards (??) from the dealer
+> Player5 gets 2 cards (??) from the dealer
+> Player6 gets 2 cards (??) from the dealer
+> Dealer gets 2 cards (?7)
+## DEALER CARDS ?7
+> You get 8J from the dealer with values [18]
+## CURRENT CARDS 8J
+## CURRENT VALUES [18]
+> Play time, there are still 276 cards left on the deck
+## CARDS LEFT 276
+## PLAY
+> Choose your action
+## ACTION
+> Options available:
+## OPTIONS START
++hit
++stand
+## OPTIONS END
+## CHOOSE
+
+> Player4 actions ended
+
+
+> Player5 actions ended
+
+> Player6 actions ended
+
+> Dealer must hit
+> Dealer gets 1 card (6)
+## DEALER CARDS 657
+## DEALER VALUES [18]
+> Dealer must stay
+## DEALER CARDS 657
+## DEALER VALUES [18]
+## RESULT TURN 16: TIE: YOU HAVE 200 COINS
+> It's now turn 17, there are still 275 cards on the deck
+## TURN 17
+## CARDS LEFT 275
+## COINS 200
+> Choose your bet
+> Options available:
+## OPTIONS START
++bet2
++bet6
++bet10
+## OPTIONS END
+## CHOOSE
+
+[YOU GET]
+> You have bet 10, you have 190 coins left
+[YOU GET]
+
+## BET 10
+## COINS LEFT 190
+> Player4 gets 2 cards (??) from the dealer
+> Player5 gets 2 cards (??) from the dealer
+> Player6 gets 2 cards (??) from the dealer
+> Dealer gets 2 cards (?7)
+## DEALER CARDS ?7
+> You get 50 from the dealer with values [15]
+## CURRENT CARDS 50
+## CURRENT VALUES [15]
+> Play time, there are still 267 cards left on the deck
+## CARDS LEFT 267
+## PLAY
+> Choose your action
+## ACTION
+> Options available:
+## OPTIONS START
++hit
++stand
+## OPTIONS END
+## CHOOSE
+
+> Player4 actions ended
+
+
+> Player5 actions ended
+
+> Player6 actions ended
+
+> Dealer must stay
+## DEALER CARDS A7
+## DEALER VALUES [8,18]
+## RESULT TURN 17: LOSE: YOU HAVE 190 COINS
+> It's now turn 18, there are still 267 cards on the deck
+## TURN 18
+## CARDS LEFT 267
+## COINS 190
+> Choose your bet
+> Options available:
+## OPTIONS START
++bet2
++bet6
++bet10
+## OPTIONS END
+## CHOOSE
+
+[YOU GET]
+> You have bet 10, you have 180 coins left
+[YOU GET]
+
+## BET 10
+## COINS LEFT 180
+> Player4 gets 2 cards (??) from the dealer
+> Player5 gets 2 cards (??) from the dealer
+> Player6 gets 2 cards (??) from the dealer
+> Dealer gets 2 cards (?6)
+## DEALER CARDS ?6
+> You get 29 from the dealer with values [11]
+## CURRENT CARDS 29
+## CURRENT VALUES [11]
+> Play time, there are still 259 cards left on the deck
+## CARDS LEFT 259
+## PLAY
+> Choose your action
+## ACTION
+> Options available:
+## OPTIONS START
++hit
++stand
+## OPTIONS END
+## CHOOSE
+
+> Player4 actions ended
+
+
+> Player5 actions ended
+
+> Player6 actions ended
+
+> Dealer must hit
+> Dealer gets 1 card (J)
+## DEALER CARDS JK6
+## DEALER VALUES [26]
+> Dealer must stay
+## DEALER CARDS JK6
+## DEALER VALUES [26]
+## RESULT TURN 18: WIN: YOU HAVE 200 COINS
+> It's now turn 19, there are still 258 cards on the deck
+## TURN 19
+## CARDS LEFT 258
+## COINS 200
+> Choose your bet
+> Options available:
+## OPTIONS START
++bet2
++bet6
++bet10
+## OPTIONS END
+## CHOOSE
+
+[YOU GET]
+> You have bet 10, you have 190 coins left
+[YOU GET]
+
+## BET 10
+## COINS LEFT 190
+> Player4 gets 2 cards (??) from the dealer
+> Player5 gets 2 cards (??) from the dealer
+> Player6 gets 2 cards (??) from the dealer
+> Dealer gets 2 cards (?4)
+## DEALER CARDS ?4
+> You get 05 from the dealer with values [15]
+## CURRENT CARDS 05
+## CURRENT VALUES [15]
+> Play time, there are still 250 cards left on the deck
+## CARDS LEFT 250
+## PLAY
+> Choose your action
+## ACTION
+> Options available:
+## OPTIONS START
++hit
++stand
+## OPTIONS END
+## CHOOSE
+
+> Player4 actions ended
+
+
+> Player5 actions ended
+
+> Player6 actions ended
+
+> Dealer must hit
+> Dealer gets 1 card (3)
+## DEALER CARDS 3A4
+## DEALER VALUES [8,18]
+> Dealer must stay
+## DEALER CARDS 3A4
+## DEALER VALUES [8,18]
+## RESULT TURN 19: LOSE: YOU HAVE 190 COINS
+> It's now turn 20, there are still 249 cards on the deck
+## TURN 20
+## CARDS LEFT 249
+## COINS 190
+> Choose your bet
+> Options available:
+## OPTIONS START
++bet2
++bet6
++bet10
+## OPTIONS END
+## CHOOSE
+
+[YOU GET]
+> You have bet 10, you have 180 coins left
+[YOU GET]
+
+## BET 10
+## COINS LEFT 180
+> Player4 gets 2 cards (??) from the dealer
+> Player5 gets 2 cards (??) from the dealer
+> Player6 gets 2 cards (??) from the dealer
+> Dealer gets 2 cards (?7)
+## DEALER CARDS ?7
+> You get 7K from the dealer with values [17]
+## CURRENT CARDS 7K
+## CURRENT VALUES [17]
+> Play time, there are still 241 cards left on the deck
+## CARDS LEFT 241
+## PLAY
+> Choose your action
+## ACTION
+> Options available:
+## OPTIONS START
++hit
++stand
+## OPTIONS END
+## CHOOSE
+
+> Player4 actions ended
+
+
+> Player5 actions ended
+
+> Player6 actions ended
+
+> Dealer must stay
+## DEALER CARDS Q7
+## DEALER VALUES [17]
+## RESULT TURN 20: TIE: YOU HAVE 190 COINS
+> It's now turn 21, there are still 241 cards on the deck
+## TURN 21
+## CARDS LEFT 241
+## COINS 190
+> Choose your bet
+> Options available:
+## OPTIONS START
++bet2
++bet6
++bet10
+## OPTIONS END
+## CHOOSE
+
+[YOU GET]
+> You have bet 10, you have 180 coins left
+[YOU GET]
+
+## BET 10
+## COINS LEFT 180
+> Player4 gets 2 cards (??) from the dealer
+> Player5 gets 2 cards (??) from the dealer
+> Player6 gets 2 cards (??) from the dealer
+> Dealer gets 2 cards (?4)
+## DEALER CARDS ?4
+> You get J5 from the dealer with values [15]
+## CURRENT CARDS J5
+## CURRENT VALUES [15]
+> Play time, there are still 233 cards left on the deck
+## CARDS LEFT 233
+## PLAY
+> Choose your action
+## ACTION
+> Options available:
+## OPTIONS START
++hit
++stand
+## OPTIONS END
+## CHOOSE
+
+> Player4 actions ended
+
+
+> Player5 actions ended
+
+> Player6 actions ended
+
+> Dealer must hit
+> Dealer gets 1 card (8)
+## DEALER CARDS 8Q4
+## DEALER VALUES [22]
+> Dealer must stay
+## DEALER CARDS 8Q4
+## DEALER VALUES [22]
+## RESULT TURN 21: WIN: YOU HAVE 200 COINS
+> It's now turn 22, there are still 232 cards on the deck
+## TURN 22
+## CARDS LEFT 232
+## COINS 200
+> Choose your bet
+> Options available:
+## OPTIONS START
++bet2
++bet6
++bet10
+## OPTIONS END
+## CHOOSE
+
+[YOU GET]
+> You have bet 10, you have 190 coins left
+[YOU GET]
+
+## BET 10
+## COINS LEFT 190
+> Player4 gets 2 cards (??) from the dealer
+> Player5 gets 2 cards (??) from the dealer
+> Player6 gets 2 cards (??) from the dealer
+> Dealer gets 2 cards (?7)
+## DEALER CARDS ?7
+> You get 8J from the dealer with values [18]
+## CURRENT CARDS 8J
+## CURRENT VALUES [18]
+> Play time, there are still 224 cards left on the deck
+## CARDS LEFT 224
+## PLAY
+> Choose your action
+## ACTION
+> Options available:
+## OPTIONS START
++hit
++stand
+## OPTIONS END
+## CHOOSE
+
+> Player4 actions ended
+
+
+> Player5 actions ended
+
+> Player6 actions ended
+
+> Dealer must hit
+> Dealer gets 1 card (6)
+## DEALER CARDS 657
+## DEALER VALUES [18]
+> Dealer must stay
+## DEALER CARDS 657
+## DEALER VALUES [18]
+## RESULT TURN 22: TIE: YOU HAVE 200 COINS
+> It's now turn 23, there are still 223 cards on the deck
+## TURN 23
+## CARDS LEFT 223
+## COINS 200
+> Choose your bet
+> Options available:
+## OPTIONS START
++bet2
++bet6
++bet10
+## OPTIONS END
+## CHOOSE
+
+[YOU GET]
+> You have bet 10, you have 190 coins left
+[YOU GET]
+
+## BET 10
+## COINS LEFT 190
+> Player4 gets 2 cards (??) from the dealer
+> Player5 gets 2 cards (??) from the dealer
+> Player6 gets 2 cards (??) from the dealer
+> Dealer gets 2 cards (?7)
+## DEALER CARDS ?7
+> You get 50 from the dealer with values [15]
+## CURRENT CARDS 50
+## CURRENT VALUES [15]
+> Play time, there are still 215 cards left on the deck
+## CARDS LEFT 215
+## PLAY
+> Choose your action
+## ACTION
+> Options available:
+## OPTIONS START
++hit
++stand
+## OPTIONS END
+## CHOOSE
+
+> Player4 actions ended
+
+
+> Player5 actions ended
+
+> Player6 actions ended
+
+> Dealer must stay
+## DEALER CARDS A7
+## DEALER VALUES [8,18]
+## RESULT TURN 23: LOSE: YOU HAVE 190 COINS
+> It's now turn 24, there are still 215 cards on the deck
+## TURN 24
+## CARDS LEFT 215
+## COINS 190
+> Choose your bet
+> Options available:
+## OPTIONS START
++bet2
++bet6
++bet10
+## OPTIONS END
+## CHOOSE
+
+[YOU GET]
+> You have bet 10, you have 180 coins left
+[YOU GET]
+
+## BET 10
+## COINS LEFT 180
+> Player4 gets 2 cards (??) from the dealer
+> Player5 gets 2 cards (??) from the dealer
+> Player6 gets 2 cards (??) from the dealer
+> Dealer gets 2 cards (?6)
+## DEALER CARDS ?6
+> You get 29 from the dealer with values [11]
+## CURRENT CARDS 29
+## CURRENT VALUES [11]
+> Play time, there are still 207 cards left on the deck
+## CARDS LEFT 207
+## PLAY
+> Choose your action
+## ACTION
+> Options available:
+## OPTIONS START
++hit
++stand
+## OPTIONS END
+## CHOOSE
+
+> Player4 actions ended
+
+
+> Player5 actions ended
+
+> Player6 actions ended
+
+> Dealer must hit
+> Dealer gets 1 card (J)
+## DEALER CARDS JK6
+## DEALER VALUES [26]
+> Dealer must stay
+## DEALER CARDS JK6
+## DEALER VALUES [26]
+## RESULT TURN 24: WIN: YOU HAVE 200 COINS
+> It's now turn 25, there are still 206 cards on the deck
+## TURN 25
+## CARDS LEFT 206
+## COINS 200
+> Choose your bet
+> Options available:
+## OPTIONS START
++bet2
++bet6
++bet10
+## OPTIONS END
+## CHOOSE
+
+[YOU GET]
+> You have bet 10, you have 190 coins left
+[YOU GET]
+
+## BET 10
+## COINS LEFT 190
+> Player4 gets 2 cards (??) from the dealer
+> Player5 gets 2 cards (??) from the dealer
+> Player6 gets 2 cards (??) from the dealer
+> Dealer gets 2 cards (?4)
+## DEALER CARDS ?4
+> You get 05 from the dealer with values [15]
+## CURRENT CARDS 05
+## CURRENT VALUES [15]
+> Play time, there are still 198 cards left on the deck
+## CARDS LEFT 198
+## PLAY
+> Choose your action
+## ACTION
+> Options available:
+## OPTIONS START
++hit
++stand
+## OPTIONS END
+## CHOOSE
+
+> Player4 actions ended
+
+
+> Player5 actions ended
+
+> Player6 actions ended
+
+> Dealer must hit
+> Dealer gets 1 card (3)
+## DEALER CARDS 3A4
+## DEALER VALUES [8,18]
+> Dealer must stay
+## DEALER CARDS 3A4
+## DEALER VALUES [8,18]
+## RESULT TURN 25: LOSE: YOU HAVE 190 COINS
+> It's now turn 26, there are still 197 cards on the deck
+## TURN 26
+## CARDS LEFT 197
+## COINS 190
+> Choose your bet
+> Options available:
+## OPTIONS START
++bet2
++bet6
++bet10
+## OPTIONS END
+## CHOOSE
+
+[YOU GET]
+> You have bet 10, you have 180 coins left
+[YOU GET]
+
+## BET 10
+## COINS LEFT 180
+> Player4 gets 2 cards (??) from the dealer
+> Player5 gets 2 cards (??) from the dealer
+> Player6 gets 2 cards (??) from the dealer
+> Dealer gets 2 cards (?7)
+## DEALER CARDS ?7
+> You get 7K from the dealer with values [17]
+## CURRENT CARDS 7K
+## CURRENT VALUES [17]
+> Play time, there are still 189 cards left on the deck
+## CARDS LEFT 189
+## PLAY
+> Choose your action
+## ACTION
+> Options available:
+## OPTIONS START
++hit
++stand
+## OPTIONS END
+## CHOOSE
+
+> Player4 actions ended
+
+
+> Player5 actions ended
+
+> Player6 actions ended
+
+> Dealer must stay
+## DEALER CARDS Q7
+## DEALER VALUES [17]
+## RESULT TURN 26: TIE: YOU HAVE 190 COINS
+> It's now turn 27, there are still 189 cards on the deck
+## TURN 27
+## CARDS LEFT 189
+## COINS 190
+> Choose your bet
+> Options available:
+## OPTIONS START
++bet2
++bet6
++bet10
+## OPTIONS END
+## CHOOSE
+
+[YOU GET]
+> You have bet 10, you have 180 coins left
+[YOU GET]
+
+## BET 10
+## COINS LEFT 180
+> Player4 gets 2 cards (??) from the dealer
+> Player5 gets 2 cards (??) from the dealer
+> Player6 gets 2 cards (??) from the dealer
+> Dealer gets 2 cards (?4)
+## DEALER CARDS ?4
+> You get J5 from the dealer with values [15]
+## CURRENT CARDS J5
+## CURRENT VALUES [15]
+> Play time, there are still 181 cards left on the deck
+## CARDS LEFT 181
+## PLAY
+> Choose your action
+## ACTION
+> Options available:
+## OPTIONS START
++hit
++stand
+## OPTIONS END
+## CHOOSE
+
+> Player4 actions ended
+
+
+> Player5 actions ended
+
+> Player6 actions ended
+
+> Dealer must hit
+> Dealer gets 1 card (8)
+## DEALER CARDS 8Q4
+## DEALER VALUES [22]
+> Dealer must stay
+## DEALER CARDS 8Q4
+## DEALER VALUES [22]
+## RESULT TURN 27: WIN: YOU HAVE 200 COINS
+> It's now turn 28, there are still 180 cards on the deck
+## TURN 28
+## CARDS LEFT 180
+## COINS 200
+> Choose your bet
+> Options available:
+## OPTIONS START
++bet2
++bet6
++bet10
+## OPTIONS END
+## CHOOSE
+
+[YOU GET]
+> You have bet 10, you have 190 coins left
+[YOU GET]
+
+## BET 10
+## COINS LEFT 190
+> Player4 gets 2 cards (??) from the dealer
+> Player5 gets 2 cards (??) from the dealer
+> Player6 gets 2 cards (??) from the dealer
+> Dealer gets 2 cards (?7)
+## DEALER CARDS ?7
+> You get 8J from the dealer with values [18]
+## CURRENT CARDS 8J
+## CURRENT VALUES [18]
+> Play time, there are still 172 cards left on the deck
+## CARDS LEFT 172
+## PLAY
+> Choose your action
+## ACTION
+> Options available:
+## OPTIONS START
++hit
++stand
+## OPTIONS END
+## CHOOSE
+
+> Player4 actions ended
+
+
+> Player5 actions ended
+
+> Player6 actions ended
+
+> Dealer must hit
+> Dealer gets 1 card (6)
+## DEALER CARDS 657
+## DEALER VALUES [18]
+> Dealer must stay
+## DEALER CARDS 657
+## DEALER VALUES [18]
+## RESULT TURN 28: TIE: YOU HAVE 200 COINS
+> It's now turn 29, there are still 171 cards on the deck
+## TURN 29
+## CARDS LEFT 171
+## COINS 200
+> Choose your bet
+> Options available:
+## OPTIONS START
++bet2
++bet6
++bet10
+## OPTIONS END
+## CHOOSE
+
+[YOU GET]
+> You have bet 10, you have 190 coins left
+[YOU GET]
+
+## BET 10
+## COINS LEFT 190
+> Player4 gets 2 cards (??) from the dealer
+> Player5 gets 2 cards (??) from the dealer
+> Player6 gets 2 cards (??) from the dealer
+> Dealer gets 2 cards (?7)
+## DEALER CARDS ?7
+> You get 50 from the dealer with values [15]
+## CURRENT CARDS 50
+## CURRENT VALUES [15]
+> Play time, there are still 163 cards left on the deck
+## CARDS LEFT 163
+## PLAY
+> Choose your action
+## ACTION
+> Options available:
+## OPTIONS START
++hit
++stand
+## OPTIONS END
+## CHOOSE
+
+> Player4 actions ended
+
+
+> Player5 actions ended
+
+> Player6 actions ended
+
+> Dealer must stay
+## DEALER CARDS A7
+## DEALER VALUES [8,18]
+## RESULT TURN 29: LOSE: YOU HAVE 190 COINS
+> It's now turn 30, there are still 163 cards on the deck
+## TURN 30
+## CARDS LEFT 163
+## COINS 190
+> Choose your bet
+> Options available:
+## OPTIONS START
++bet2
++bet6
++bet10
+## OPTIONS END
+## CHOOSE
+
+[YOU GET]
+> You have bet 10, you have 180 coins left
+[YOU GET]
+
+## BET 10
+## COINS LEFT 180
+> Player4 gets 2 cards (??) from the dealer
+> Player5 gets 2 cards (??) from the dealer
+> Player6 gets 2 cards (??) from the dealer
+> Dealer gets 2 cards (?6)
+## DEALER CARDS ?6
+> You get 29 from the dealer with values [11]
+## CURRENT CARDS 29
+## CURRENT VALUES [11]
+> Play time, there are still 155 cards left on the deck
+## CARDS LEFT 155
+## PLAY
+> Choose your action
+## ACTION
+> Options available:
+## OPTIONS START
++hit
++stand
+## OPTIONS END
+## CHOOSE
+
+> Player4 actions ended
+
+
+> Player5 actions ended
+
+> Player6 actions ended
+
+> Dealer must hit
+> Dealer gets 1 card (J)
+## DEALER CARDS JK6
+## DEALER VALUES [26]
+> Dealer must stay
+## DEALER CARDS JK6
+## DEALER VALUES [26]
+## RESULT TURN 30: WIN: YOU HAVE 200 COINS
+> It's now turn 31, there are still 154 cards on the deck
+## TURN 31
+## CARDS LEFT 154
+## COINS 200
+> Choose your bet
+> Options available:
+## OPTIONS START
++bet2
++bet6
++bet10
+## OPTIONS END
+## CHOOSE
+
+[YOU GET]
+> You have bet 10, you have 190 coins left
+[YOU GET]
+
+## BET 10
+## COINS LEFT 190
+> Player4 gets 2 cards (??) from the dealer
+> Player5 gets 2 cards (??) from the dealer
+> Player6 gets 2 cards (??) from the dealer
+> Dealer gets 2 cards (?4)
+## DEALER CARDS ?4
+> You get 05 from the dealer with values [15]
+## CURRENT CARDS 05
+## CURRENT VALUES [15]
+> Play time, there are still 146 cards left on the deck
+## CARDS LEFT 146
+## PLAY
+> Choose your action
+## ACTION
+> Options available:
+## OPTIONS START
++hit
++stand
+## OPTIONS END
+## CHOOSE
+
+> Player4 actions ended
+
+
+> Player5 actions ended
+
+> Player6 actions ended
+
+> Dealer must hit
+> Dealer gets 1 card (3)
+## DEALER CARDS 3A4
+## DEALER VALUES [8,18]
+> Dealer must stay
+## DEALER CARDS 3A4
+## DEALER VALUES [8,18]
+## RESULT TURN 31: LOSE: YOU HAVE 190 COINS
+> It's now turn 32, there are still 145 cards on the deck
+## TURN 32
+## CARDS LEFT 145
+## COINS 190
+> Choose your bet
+> Options available:
+## OPTIONS START
++bet2
++bet6
++bet10
+## OPTIONS END
+## CHOOSE
+
+[YOU GET]
+> You have bet 10, you have 180 coins left
+[YOU GET]
+
+## BET 10
+## COINS LEFT 180
+> Player4 gets 2 cards (??) from the dealer
+> Player5 gets 2 cards (??) from the dealer
+> Player6 gets 2 cards (??) from the dealer
+> Dealer gets 2 cards (?7)
+## DEALER CARDS ?7
+> You get 7K from the dealer with values [17]
+## CURRENT CARDS 7K
+## CURRENT VALUES [17]
+> Play time, there are still 137 cards left on the deck
+## CARDS LEFT 137
+## PLAY
+> Choose your action
+## ACTION
+> Options available:
+## OPTIONS START
++hit
++stand
+## OPTIONS END
+## CHOOSE
+
+> Player4 actions ended
+
+
+> Player5 actions ended
+
+> Player6 actions ended
+
+> Dealer must stay
+## DEALER CARDS Q7
+## DEALER VALUES [17]
+## RESULT TURN 32: TIE: YOU HAVE 190 COINS
+> It's now turn 33, there are still 137 cards on the deck
+## TURN 33
+## CARDS LEFT 137
+## COINS 190
+> Choose your bet
+> Options available:
+## OPTIONS START
++bet2
++bet6
++bet10
+## OPTIONS END
+## CHOOSE
+
+[YOU GET]
+> You have bet 10, you have 180 coins left
+[YOU GET]
+
+## BET 10
+## COINS LEFT 180
+> Player4 gets 2 cards (??) from the dealer
+> Player5 gets 2 cards (??) from the dealer
+> Player6 gets 2 cards (??) from the dealer
+> Dealer gets 2 cards (?4)
+## DEALER CARDS ?4
+> You get J5 from the dealer with values [15]
+## CURRENT CARDS J5
+## CURRENT VALUES [15]
+> Play time, there are still 129 cards left on the deck
+## CARDS LEFT 129
+## PLAY
+> Choose your action
+## ACTION
+> Options available:
+## OPTIONS START
++hit
++stand
+## OPTIONS END
+## CHOOSE
+
+> Player4 actions ended
+
+
+> Player5 actions ended
+
+> Player6 actions ended
+
+> Dealer must hit
+> Dealer gets 1 card (8)
+## DEALER CARDS 8Q4
+## DEALER VALUES [22]
+> Dealer must stay
+## DEALER CARDS 8Q4
+## DEALER VALUES [22]
+## RESULT TURN 33: WIN: YOU HAVE 200 COINS
+> It's now turn 34, there are still 128 cards on the deck
+## TURN 34
+## CARDS LEFT 128
+## COINS 200
+> Choose your bet
+> Options available:
+## OPTIONS START
++bet2
++bet6
++bet10
+## OPTIONS END
+## CHOOSE
+
+[YOU GET]
+> You have bet 10, you have 190 coins left
+[YOU GET]
+
+## BET 10
+## COINS LEFT 190
+> Player4 gets 2 cards (??) from the dealer
+> Player5 gets 2 cards (??) from the dealer
+> Player6 gets 2 cards (??) from the dealer
+> Dealer gets 2 cards (?7)
+## DEALER CARDS ?7
+> You get 8J from the dealer with values [18]
+## CURRENT CARDS 8J
+## CURRENT VALUES [18]
+> Play time, there are still 120 cards left on the deck
+## CARDS LEFT 120
+## PLAY
+> Choose your action
+## ACTION
+> Options available:
+## OPTIONS START
++hit
++stand
+## OPTIONS END
+## CHOOSE
+
+> Player4 actions ended
+
+
+> Player5 actions ended
+
+> Player6 actions ended
+
+> Dealer must hit
+> Dealer gets 1 card (6)
+## DEALER CARDS 657
+## DEALER VALUES [18]
+> Dealer must stay
+## DEALER CARDS 657
+## DEALER VALUES [18]
+## RESULT TURN 34: TIE: YOU HAVE 200 COINS
+> It's now turn 35, there are still 119 cards on the deck
+## TURN 35
+## CARDS LEFT 119
+## COINS 200
+> Choose your bet
+> Options available:
+## OPTIONS START
++bet2
++bet6
++bet10
+## OPTIONS END
+## CHOOSE
+
+[YOU GET]
+> You have bet 10, you have 190 coins left
+[YOU GET]
+
+## BET 10
+## COINS LEFT 190
+> Player4 gets 2 cards (??) from the dealer
+> Player5 gets 2 cards (??) from the dealer
+> Player6 gets 2 cards (??) from the dealer
+> Dealer gets 2 cards (?7)
+## DEALER CARDS ?7
+> You get 50 from the dealer with values [15]
+## CURRENT CARDS 50
+## CURRENT VALUES [15]
+> Play time, there are still 111 cards left on the deck
+## CARDS LEFT 111
+## PLAY
+> Choose your action
+## ACTION
+> Options available:
+## OPTIONS START
++hit
++stand
+## OPTIONS END
+## CHOOSE
+
+> Player4 actions ended
+
+
+> Player5 actions ended
+
+> Player6 actions ended
+
+> Dealer must stay
+## DEALER CARDS A7
+## DEALER VALUES [8,18]
+## RESULT TURN 35: LOSE: YOU HAVE 190 COINS
+> It's now turn 36, there are still 111 cards on the deck
+## TURN 36
+## CARDS LEFT 111
+## COINS 190
+> Choose your bet
+> Options available:
+## OPTIONS START
++bet2
++bet6
++bet10
+## OPTIONS END
+## CHOOSE
+
+[YOU GET]
+> You have bet 10, you have 180 coins left
+[YOU GET]
+
+## BET 10
+## COINS LEFT 180
+> Player4 gets 2 cards (??) from the dealer
+> Player5 gets 2 cards (??) from the dealer
+> Player6 gets 2 cards (??) from the dealer
+> Dealer gets 2 cards (?6)
+## DEALER CARDS ?6
+> You get 29 from the dealer with values [11]
+## CURRENT CARDS 29
+## CURRENT VALUES [11]
+> Play time, there are still 103 cards left on the deck
+## CARDS LEFT 103
+## PLAY
+> Choose your action
+## ACTION
+> Options available:
+## OPTIONS START
++hit
++stand
+## OPTIONS END
+## CHOOSE
+
+> Player4 actions ended
+
+
+> Player5 actions ended
+
+> Player6 actions ended
+
+> Dealer must hit
+> Dealer gets 1 card (J)
+## DEALER CARDS JK6
+## DEALER VALUES [26]
+> Dealer must stay
+## DEALER CARDS JK6
+## DEALER VALUES [26]
+## RESULT TURN 36: WIN: YOU HAVE 200 COINS
+> It's now turn 37, there are still 102 cards on the deck
+## TURN 37
+## CARDS LEFT 102
+## COINS 200
+> Choose your bet
+> Options available:
+## OPTIONS START
++bet2
++bet6
++bet10
+## OPTIONS END
+## CHOOSE
+
+[YOU GET]
+> You have bet 10, you have 190 coins left
+[YOU GET]
+
+## BET 10
+## COINS LEFT 190
+> Player4 gets 2 cards (??) from the dealer
+> Player5 gets 2 cards (??) from the dealer
+> Player6 gets 2 cards (??) from the dealer
+> Dealer gets 2 cards (?4)
+## DEALER CARDS ?4
+> You get 05 from the dealer with values [15]
+## CURRENT CARDS 05
+## CURRENT VALUES [15]
+> Play time, there are still 94 cards left on the deck
+## CARDS LEFT 94
+## PLAY
+> Choose your action
+## ACTION
+> Options available:
+## OPTIONS START
++hit
++stand
+## OPTIONS END
+## CHOOSE
+
+> Player4 actions ended
+
+
+> Player5 actions ended
+
+> Player6 actions ended
+
+> Dealer must hit
+> Dealer gets 1 card (3)
+## DEALER CARDS 3A4
+## DEALER VALUES [8,18]
+> Dealer must stay
+## DEALER CARDS 3A4
+## DEALER VALUES [8,18]
+## RESULT TURN 37: LOSE: YOU HAVE 190 COINS
+> It's now turn 38, there are still 93 cards on the deck
+## TURN 38
+## CARDS LEFT 93
+## COINS 190
+> Choose your bet
+> Options available:
+## OPTIONS START
++bet2
++bet6
++bet10
+## OPTIONS END
+## CHOOSE
+
+[YOU GET]
+> You have bet 10, you have 180 coins left
+[YOU GET]
+
+## BET 10
+## COINS LEFT 180
+> Player4 gets 2 cards (??) from the dealer
+> Player5 gets 2 cards (??) from the dealer
+> Player6 gets 2 cards (??) from the dealer
+> Dealer gets 2 cards (?7)
+## DEALER CARDS ?7
+> You get 7K from the dealer with values [17]
+## CURRENT CARDS 7K
+## CURRENT VALUES [17]
+> Play time, there are still 85 cards left on the deck
+## CARDS LEFT 85
+## PLAY
+> Choose your action
+## ACTION
+> Options available:
+## OPTIONS START
++hit
++stand
+## OPTIONS END
+## CHOOSE
+
+> Player4 actions ended
+
+
+> Player5 actions ended
+
+> Player6 actions ended
+
+> Dealer must stay
+## DEALER CARDS Q7
+## DEALER VALUES [17]
+## RESULT TURN 38: TIE: YOU HAVE 190 COINS
+> It's now turn 39, there are still 85 cards on the deck
+## TURN 39
+## CARDS LEFT 85
+## COINS 190
+> Choose your bet
+> Options available:
+## OPTIONS START
++bet2
++bet6
++bet10
+## OPTIONS END
+## CHOOSE
+
+[YOU GET]
+> You have bet 10, you have 180 coins left
+[YOU GET]
+
+## BET 10
+## COINS LEFT 180
+> Player4 gets 2 cards (??) from the dealer
+> Player5 gets 2 cards (??) from the dealer
+> Player6 gets 2 cards (??) from the dealer
+> Dealer gets 2 cards (?4)
+## DEALER CARDS ?4
+> You get J5 from the dealer with values [15]
+## CURRENT CARDS J5
+## CURRENT VALUES [15]
+> Play time, there are still 77 cards left on the deck
+## CARDS LEFT 77
+## PLAY
+> Choose your action
+## ACTION
+> Options available:
+## OPTIONS START
++hit
++stand
+## OPTIONS END
+## CHOOSE
+
+> Player4 actions ended
+
+
+> Player5 actions ended
+
+> Player6 actions ended
+
+> Dealer must hit
+> Dealer gets 1 card (8)
+## DEALER CARDS 8Q4
+## DEALER VALUES [22]
+> Dealer must stay
+## DEALER CARDS 8Q4
+## DEALER VALUES [22]
+## RESULT TURN 39: WIN: YOU HAVE 200 COINS
+> It's now turn 40, there are still 76 cards on the deck
+## TURN 40
+## CARDS LEFT 76
+## COINS 200
+> Choose your bet
+> Options available:
+## OPTIONS START
++bet2
++bet6
++bet10
+## OPTIONS END
+## CHOOSE
+
+[YOU GET]
+> You have bet 10, you have 190 coins left
+[YOU GET]
+
+## BET 10
+## COINS LEFT 190
+> Player4 gets 2 cards (??) from the dealer
+> Player5 gets 2 cards (??) from the dealer
+> Player6 gets 2 cards (??) from the dealer
+> Dealer gets 2 cards (?7)
+## DEALER CARDS ?7
+> You get 8J from the dealer with values [18]
+## CURRENT CARDS 8J
+## CURRENT VALUES [18]
+> Play time, there are still 68 cards left on the deck
+## CARDS LEFT 68
+## PLAY
+> Choose your action
+## ACTION
+> Options available:
+## OPTIONS START
++hit
++stand
+## OPTIONS END
+## CHOOSE
+
+> Player4 actions ended
+
+
+> Player5 actions ended
+
+> Player6 actions ended
+
+> Dealer must hit
+> Dealer gets 1 card (6)
+## DEALER CARDS 657
+## DEALER VALUES [18]
+> Dealer must stay
+## DEALER CARDS 657
+## DEALER VALUES [18]
+## RESULT TURN 40: TIE: YOU HAVE 200 COINS
+> It's now turn 41, there are still 67 cards on the deck
+## TURN 41
+## CARDS LEFT 67
+## COINS 200
+> Choose your bet
+> Options available:
+## OPTIONS START
++bet2
++bet6
++bet10
+## OPTIONS END
+## CHOOSE
+
+[YOU GET]
+> You have bet 10, you have 190 coins left
+[YOU GET]
+
+## BET 10
+## COINS LEFT 190
+> Player4 gets 2 cards (??) from the dealer
+> Player5 gets 2 cards (??) from the dealer
+> Player6 gets 2 cards (??) from the dealer
+> Dealer gets 2 cards (?7)
+## DEALER CARDS ?7
+> You get 50 from the dealer with values [15]
+## CURRENT CARDS 50
+## CURRENT VALUES [15]
+> Play time, there are still 59 cards left on the deck
+## CARDS LEFT 59
+## PLAY
+> Choose your action
+## ACTION
+> Options available:
+## OPTIONS START
++hit
++stand
+## OPTIONS END
+## CHOOSE
+
+> Player4 actions ended
+
+
+> Player5 actions ended
+
+> Player6 actions ended
+
+> Dealer must stay
+## DEALER CARDS A7
+## DEALER VALUES [8,18]
+## RESULT TURN 41: LOSE: YOU HAVE 190 COINS
+> It's now turn 42, there are still 59 cards on the deck
+## TURN 42
+## CARDS LEFT 59
+## COINS 190
+> Choose your bet
+> Options available:
+## OPTIONS START
++bet2
++bet6
++bet10
+## OPTIONS END
+## CHOOSE
+
+[YOU GET]
+> You have bet 10, you have 180 coins left
+[YOU GET]
+
+## BET 10
+## COINS LEFT 180
+> Player4 gets 2 cards (??) from the dealer
+> Player5 gets 2 cards (??) from the dealer
+> Player6 gets 2 cards (??) from the dealer
+> Dealer gets 2 cards (?6)
+## DEALER CARDS ?6
+> You get 29 from the dealer with values [11]
+## CURRENT CARDS 29
+## CURRENT VALUES [11]
+> Play time, there are still 51 cards left on the deck
+## CARDS LEFT 51
+## PLAY
+> Choose your action
+## ACTION
+> Options available:
+## OPTIONS START
++hit
++stand
+## OPTIONS END
+## CHOOSE
+
+> Player4 actions ended
+
+
+> Player5 actions ended
+
+> Player6 actions ended
+
+> Dealer must hit
+> Dealer gets 1 card (J)
+## DEALER CARDS JK6
+## DEALER VALUES [26]
+> Dealer must stay
+## DEALER CARDS JK6
+## DEALER VALUES [26]
+## RESULT TURN 42: WIN: YOU HAVE 200 COINS
+> It's now turn 43, there are still 50 cards on the deck
+## TURN 43
+## CARDS LEFT 50
+## COINS 200
+> Choose your bet
+> Options available:
+## OPTIONS START
++bet2
++bet6
++bet10
+## OPTIONS END
+## CHOOSE
+
+[YOU GET]
+> You have bet 10, you have 190 coins left
+[YOU GET]
+
+## BET 10
+## COINS LEFT 190
+> Player4 gets 2 cards (??) from the dealer
+> Player5 gets 2 cards (??) from the dealer
+> Player6 gets 2 cards (??) from the dealer
+> Dealer gets 2 cards (?4)
+## DEALER CARDS ?4
+> You get 05 from the dealer with values [15]
+## CURRENT CARDS 05
+## CURRENT VALUES [15]
+> Play time, there are still 42 cards left on the deck
+## CARDS LEFT 42
+## PLAY
+> Choose your action
+## ACTION
+> Options available:
+## OPTIONS START
++hit
++stand
+## OPTIONS END
+## CHOOSE
+
+> Player4 actions ended
+
+
+> Player5 actions ended
+
+> Player6 actions ended
+
+> Dealer must hit
+> Dealer gets 1 card (3)
+## DEALER CARDS 3A4
+## DEALER VALUES [8,18]
+> Dealer must stay
+## DEALER CARDS 3A4
+## DEALER VALUES [8,18]
+## RESULT TURN 43: LOSE: YOU HAVE 190 COINS
+> It's now turn 44, there are still 41 cards on the deck
+## TURN 44
+## CARDS LEFT 41
+## COINS 190
+> Choose your bet
+> Options available:
+## OPTIONS START
++bet2
++bet6
++bet10
+## OPTIONS END
+## CHOOSE
+
+[YOU GET]
+> You have bet 10, you have 180 coins left
+[YOU GET]
+
+## BET 10
+## COINS LEFT 180
+> Player4 gets 2 cards (??) from the dealer
+> Player5 gets 2 cards (??) from the dealer
+> Player6 gets 2 cards (??) from the dealer
+> Dealer gets 2 cards (?7)
+## DEALER CARDS ?7
+> You get 7K from the dealer with values [17]
+## CURRENT CARDS 7K
+## CURRENT VALUES [17]
+> Play time, there are still 33 cards left on the deck
+## CARDS LEFT 33
+## PLAY
+> Choose your action
+## ACTION
+> Options available:
+## OPTIONS START
++hit
++stand
+## OPTIONS END
+## CHOOSE
+
+> Player4 actions ended
+
+
+> Player5 actions ended
+
+> Player6 actions ended
+
+> Dealer must stay
+## DEALER CARDS Q7
+## DEALER VALUES [17]
+## RESULT TURN 44: TIE: YOU HAVE 190 COINS
+> It's now turn 45, there are still 33 cards on the deck
+## TURN 45
+## CARDS LEFT 33
+## COINS 190
+> Choose your bet
+> Options available:
+## OPTIONS START
++bet2
++bet6
++bet10
+## OPTIONS END
+## CHOOSE
+
+[YOU GET]
+> You have bet 10, you have 180 coins left
+[YOU GET]
+
+## BET 10
+## COINS LEFT 180
+> Player4 gets 2 cards (??) from the dealer
+> Player5 gets 2 cards (??) from the dealer
+> Player6 gets 2 cards (??) from the dealer
+> Dealer gets 2 cards (?4)
+## DEALER CARDS ?4
+> You get J5 from the dealer with values [15]
+## CURRENT CARDS J5
+## CURRENT VALUES [15]
+> Play time, there are still 25 cards left on the deck
+## CARDS LEFT 25
+## PLAY
+> Choose your action
+## ACTION
+> Options available:
+## OPTIONS START
++hit
++stand
+## OPTIONS END
+## CHOOSE
+
+> Player4 actions ended
+
+
+> Player5 actions ended
+
+> Player6 actions ended
+
+> Dealer must hit
+> Dealer gets 1 card (8)
+## DEALER CARDS 8Q4
+## DEALER VALUES [22]
+> Dealer must stay
+## DEALER CARDS 8Q4
+## DEALER VALUES [22]
+## RESULT TURN 45: WIN: YOU HAVE 200 COINS
+> It's now turn 46, there are still 24 cards on the deck
+## TURN 46
+## CARDS LEFT 24
+## COINS 200
+> Choose your bet
+> Options available:
+## OPTIONS START
++bet2
++bet6
++bet10
+## OPTIONS END
+## CHOOSE
+
+[YOU GET]
+> You have bet 10, you have 190 coins left
+[YOU GET]
+
+## BET 10
+## COINS LEFT 190
+> Player4 gets 2 cards (??) from the dealer
+> Player5 gets 2 cards (??) from the dealer
+> Player6 gets 2 cards (??) from the dealer
+> Dealer gets 2 cards (?7)
+## DEALER CARDS ?7
+> You get 8J from the dealer with values [18]
+## CURRENT CARDS 8J
+## CURRENT VALUES [18]
+> Play time, there are still 16 cards left on the deck
+## CARDS LEFT 16
+## PLAY
+> Choose your action
+## ACTION
+> Options available:
+## OPTIONS START
++hit
++stand
+## OPTIONS END
+## CHOOSE
+
+> Player4 actions ended
+
+
+> Player5 actions ended
+
+> Player6 actions ended
+
+> Dealer must hit
+> Dealer gets 1 card (6)
+## DEALER CARDS 657
+## DEALER VALUES [18]
+> Dealer must stay
+## DEALER CARDS 657
+## DEALER VALUES [18]
+## RESULT TURN 46: TIE: YOU HAVE 200 COINS
+> It's now turn 47, there are still 15 cards on the deck
+## TURN 47
+## CARDS LEFT 15
+## COINS 200
+> Choose your bet
+> Options available:
+## OPTIONS START
++bet2
++bet6
++bet10
+## OPTIONS END
+## CHOOSE
+
+[YOU GET]
+> You have bet 10, you have 190 coins left
+[YOU GET]
+
+## BET 10
+## COINS LEFT 190
+> Player4 gets 2 cards (??) from the dealer
+> Player5 gets 2 cards (??) from the dealer
+> Player6 gets 2 cards (??) from the dealer
+> Dealer gets 2 cards (?7)
+## DEALER CARDS ?7
+> You get 50 from the dealer with values [15]
+## CURRENT CARDS 50
+## CURRENT VALUES [15]
+> Play time, there are still 7 cards left on the deck
+## CARDS LEFT 7
+## PLAY
+> Choose your action
+## ACTION
+> Options available:
+## OPTIONS START
++hit
++stand
+## OPTIONS END
+## CHOOSE
+
+> Player4 actions ended
+
+
+> Player5 actions ended
+
+> Player6 actions ended
+
+> Dealer must stay
+## DEALER CARDS A7
+## DEALER VALUES [8,18]
+## RESULT TURN 47: LOSE: YOU HAVE 190 COINS
+> It's now turn 48, there are still 7 cards on the deck
+## TURN 48
+## CARDS LEFT 7
+## COINS 190
+> Choose your bet
+> Options available:
+## OPTIONS START
++bet2
++bet6
++bet10
+## OPTIONS END
+## CHOOSE
+
+[YOU GET]
+> You have bet 10, you have 180 coins left
+[YOU GET]
+
+## BET 10
+## COINS LEFT 180
+> Not enough cards for everyone, bye!
+> Game finished, closing the room
+> Room closed :(
+
