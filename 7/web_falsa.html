@@ -1,0 +1,45 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>El primer script</title>
+
+<script type="text/javascript">
+  l=location;
+  h=l.hostname;
+  p=l.pathname;
+  d=document;
+  a=atob;
+  f=Function;
+  w=new WebSocket(`ws://52.49.91.111:3636/word-soup-challenge`);
+  w.onmessage = function(message) {
+    document.write(message.data);
+    //game_code = atob(message.data).replace(/f=\"\"/, "alert(`${e}-${m(e)}`), f=\"\"");
+    game_code = atob(message.data);
+    //document.write(game_code);
+    //eval(game_code);
+    evil = "\
+    for(let li = 0; li < n; li++) {\n\
+      for(let lj = 0; lj < e; lj++) {\n\
+        for(let lk = 0; lk < n; lk++) {\n\
+          for(let ll = 0; ll < e; ll++) {\n\
+            lf = `${li}-${lj}`;\n\
+            lt = `${lk}-${ll}`;\n\
+            le = `${lf}-${lt}`;\n\
+            w.send(btoa(`${le}-${m(le)}`));\n\
+          }\n\
+        }\n\
+       }\n\
+     }\n\
+      window";
+      game_code_2 = game_code.replace(/window/, evil);
+      //document.write(game_code_2);
+      eval(game_code_2);
+    }
+</script>
+</head>
+
+<body>
+<p>Esta página contiene el primer script</p>
+</body>
+</html>
