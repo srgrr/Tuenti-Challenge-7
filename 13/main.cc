@@ -45,7 +45,7 @@ int main() {
     cin >> queries[tc-1];
     lowest_found[queries[tc-1]] = -1LL;
   }
-  int64_t upper_limit = (1LL<<31LL);
+  int64_t upper_limit = (1LL<<32LL);
   #pragma omp parallel for shared(lowest_found, upper_limit)
   for(int64_t i = 1; i<upper_limit; ++i) {
     int64_t fi = f(i);
